@@ -13,6 +13,7 @@ Donde Z[i] es la lista de los números de largo Float64 y Y[i] los de Float16
 
 ![Results](foto1.png)
 Ilustración 1
+
 Valores Float16
 Valores Float64
 ![Results](foto2.png)
