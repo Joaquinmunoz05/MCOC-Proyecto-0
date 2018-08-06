@@ -16,6 +16,7 @@ Ilustración 1
 
 Valores Float16
 Valores Float64
+
 ![Results](foto2.png)
 Ilustración 2
  
